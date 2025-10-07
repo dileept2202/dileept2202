@@ -5,11 +5,6 @@
 -->
 
 
-<div align="center">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/Jesinthwilson/count.svg" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
   <img width="600" src="https://cdn.prod.website-files.com/5ff3b1963c457a72f88616e6/65702e069efac79b49e9d476_image%20(4).png" alt="Data Analyst">
 </h1>
