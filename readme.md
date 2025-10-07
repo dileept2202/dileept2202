@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-  <img width="600" src="https://cdn.vectorstock.com/i/1000v/54/87/man-data-analyst-stylized-cartoon-concept-vector-50845487.jpg" alt="Banner of a developer sitting in front of a desk">
+  <img width="600" src="https://cdn.prod.website-files.com/5ff3b1963c457a72f88616e6/65702e069efac79b49e9d476_image%20(4).png" alt="Data Analyst">
 </h1>
 
 <h1 align="center">
