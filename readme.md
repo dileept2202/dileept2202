@@ -18,12 +18,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+DILEEP;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A passionate Data Analyst and Front-End Developer dedicated to turning data and design into meaningful digital experiences.
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **Data Analytics Projects**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **ML/DL Projects**
-- 💬 Ask me about **Java, Python, Node.js, React... or anything [here](https://github.com/dileept2202/dileept2202/issues)**
 - 📫 Reach me at: **dile3083@gmail.com**
 
 ---
@@ -43,7 +42,7 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,cs" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
 </p>
 
 ### Fullstack Development
