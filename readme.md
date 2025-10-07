@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-  <img width="600" src="https://backiee.com/static/wallpapers/1000x563/401721.jpg" alt="Banner of a developer sitting in front of a desk">
+  <img width="600" src="https://cdn.vectorstock.com/i/1000v/54/87/man-data-analyst-stylized-cartoon-concept-vector-50845487.jpg" alt="Banner of a developer sitting in front of a desk">
 </h1>
 
 <h1 align="center">
