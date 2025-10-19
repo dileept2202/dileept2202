@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  <img width="600" src="https://cdn.prod.website-files.com/5ff3b1963c457a72f88616e6/65702e069efac79b49e9d476_image%20(4).png" alt="Data Analyst">
+  <img width="600" src="[https://cdn.prod.website-files.com/5ff3b1963c457a72f88616e6/65702e069efac79b49e9d476_image%20(4).png](https://www.ducatindia.com/_next/image?url=https%3A%2F%2Fadmin.ducatindia.com%2Fblog%2F1741004135014create%20me%20a%20image%20for%20what%20is%20mern%20stack%20%20developer%20with%20background%20color%20of%20royal%20blue%20and%20white%20%20(1).jpg&w=1920&q=75)" alt="Data Analyst">
 </h1>
 
 <h1 align="center">
