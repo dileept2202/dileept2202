@@ -49,13 +49,7 @@
 </p>
 
 ---
-
-## 📌 Key Achievements
-
-- Finalist in **Dark Pattern Buster Hackathon**, conducted by Ministry of Consumer Affairs, IIT Varanasi (2024)  
-- Selected for **Smart India Hackathon (Internal Round)** (2024)  
-- Appointed **Camp Senior** at NCC CATC-2 Camp, Kongu Engineering College (2025)  
-- Awarded **“Best in Training”** in NCC for 2024–2025  
+ 
 
 ---
 
