@@ -13,12 +13,12 @@
 - 🔭 I’m currently working on **Fullstack Web Development Projects**  
 - 🌱 I’m currently learning **React.js and AI integration for web apps**  
 - 👯 I’m looking to collaborate on **MERN stack and ML/DL projects**  
-- 📫 Reach me at: **dile3083@gmail.com**  
+- 📫 Reach me at: **dileep.thetchina@gmail.com**  
 
 ---
 
 <div align="center">
-  <a href="mailto:dile3083@gmail.com">
+  <a href="mailto:dileep.thetchina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dileep2202/" target="_blank">
