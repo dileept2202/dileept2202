@@ -1,7 +1,7 @@
 # Hi there, I'm Dileep T 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:2563EB&height=220&section=header&text=Dileep%20T&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20Intern%20|%20AI%20%26%20Data%20Science%20Graduate&descAlignY=60" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving](https://media.licdn.com/dms/image/v2/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1686749902757?e=1782950400&v=beta&t=ImxGAfL42awzHI7_b4LsGHA5Xs0yqXp70IoJJbeQgyc)&color=0:0F4C81,100:2563EB&height=220&section=header&text=Dileep%20T&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20Intern%20|%20AI%20%26%20Data%20Science%20Graduate&descAlignY=60" />
 </div>
 
 <div align="center">
