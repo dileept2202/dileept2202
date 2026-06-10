@@ -1,117 +1,148 @@
-## Hi there, I am Dileep T 👋
-
-<h1 align="center">
-  <img width="600" src="https://media.licdn.com/dms/image/v2/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1686749902757?e=1782950400&v=beta&t=ImxGAfL42awzHI7_b4LsGHA5Xs0yqXp70IoJJbeQgyc" alt="Business Analytics Banner">
-</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+DILEEP+T;+Business+Analyst+Intern;+Data+Analytics+Enthusiast;+Turning+Data+into+Insights" />
-
-### Passionate about data analytics, business intelligence, and transforming data into actionable insights that drive better decision-making.
-
-- 💼 Currently working as **Business Analyst Intern – Team Lead at UptoSkills**
-- 📊 Skilled in **Data Analytics, Business Intelligence, Data Visualization, and Reporting**
-- 🌱 Currently learning **Advanced Power BI, SQL, and Business Analytics**
-- 👯 Open to collaborating on **Data Analytics, Business Intelligence, and Business Strategy Projects**
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** from Kongu Engineering College
-- 📫 Reach me at: **dileep.thetchina@gmail.com**
-- 🌐 Portfolio: **https://dileeptportfolio.netlify.app**
-
----
+# Hi there, I'm Dileep T 👋
 
 <div align="center">
-  <a href="mailto:dileep.thetchina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/dileep2202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dileept2202" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://dileeptportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:2563EB&height=220&section=header&text=Dileep%20T&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20Intern%20|%20AI%20%26%20Data%20Science%20Graduate&descAlignY=60" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=800&color=2563EB&duration=4000&lines=Business+Analyst+Intern;AI+%26+Data+Science+Graduate;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Insights" />
 </div>
 
 ---
 
+## 🚀 About Me
 
-## 🛠 Languages and Tools
+Self-motivated and adaptable graduate with internship and team leadership experience, strong analytical and problem-solving abilities. Skilled in Excel, SQL, Python, and Power BI, with a passion for learning and continuous improvement.
 
-### Programming Languages
+- 💼 Business Analyst Intern – Team Lead at UptoSkills
+- 🎓 B.Tech in Artificial Intelligence & Data Science, Kongu Engineering College
+- 📊 Interested in Data Analytics, Business Analysis, and Business Intelligence
+- 📍 Madurai, Tamil Nadu, India
+- 🌱 Passionate about continuous learning and professional growth
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,etc" />
+  <a href="mailto:dileep.thetchina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dileep2202">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dileept2202">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://dileeptportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
-### Full Stack Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,etc" />
+---
+
+## 🛠 Skills
+
+### Programming & Query Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Data Analytics & AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,etc" />
+- SQL
+
+### Tools & Technologies
+- Power BI
+- Tableau
+- Microsoft Excel
+- MySQL
+- GitHub
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb" />
 </p>
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,etc" />
-</p>
+### Soft Skills
+- Analytical Thinking
+- Communication
+- Leadership
+- Problem Solving
+- Adaptability
+- Time Management
 
 ---
 
 ## 💼 Experience
 
 ### Business Analyst Intern – Team Lead | UptoSkills
-- Led a team of 20 members, coordinating tasks and ensuring timely project execution.
-- Conducted SWOT analysis and business research to identify opportunities and support strategic decision-making.
-- Created Power BI dashboards and Excel reports to monitor performance metrics and visualize business insights.
-- Collaborated with stakeholders to gather requirements and deliver data-driven recommendations.
+**March 2026 – Present**
 
----
-
-## 🏆 Achievements
-
-- 🥇 Finalist – Dark Pattern Buster Hackathon conducted at IIT Varanasi.
-- 📜 NPTEL Elite Certification – Data Analytics with Python.
-- 📊 Built interactive dashboards and analytical reports using Power BI and Excel.
-- 🤝 Led cross-functional teams and contributed to business strategy initiatives.
+- Led and mentored a team of 20 members, overseeing task allocation, progress tracking, and project execution.
+- Conducted SWOT analysis and business research to evaluate organizational performance, identify opportunities, and support strategic decision-making.
+- Designed and delivered analytical reports and interactive dashboards using Power BI and Excel.
+- Performed data cleaning, transformation, and exploratory data analysis (EDA) using Python and SQL to uncover trends and support business recommendations.
 
 ---
 
 ## 🚀 Projects
 
-### Water potability prediction using Machine Learning
-- Built a predictive model to classify water as safe or unsafe for drinking based on physicochemical parameters.
-- Performed data preprocessing, exploratory data analysis, and model evaluation to improve prediction accuracy.
-- Tech Stack: Python, Pandas, Scikit-learn, NumPy, Matplotlib
+### 💧 Water Potability Prediction using Machine Learning
 
-### Kongu Transport Management System
-- Analyzed transport-related data and developed a reporting platform for issue tracking.
-- Tech Stack: MongoDB, React.js, Node.js.
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-### Deep Learning Framework for Breast Cancer Diagnosis
-- Developed an AI-based diagnostic framework for medical image analysis.
-- Focused on data processing, model evaluation, and performance analysis.
-- Tech Stack: Python, TensorFlow, EfficientNet-B7, GAN, Grad-CAM.
+- Developed a machine learning model to predict water potability using water quality parameters.
+- Performed data cleaning and basic data visualization for analysis.
 
----
+### 🩺 Deep Learning Framework for Breast Cancer Diagnosis
 
-## ⚡ GitHub Stats
+**Tech Stack:** Python, TensorFlow, EfficientNet-B7, GAN, Grad-CAM
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dileept2202&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+- Designed and implemented a deep learning model for breast cancer classification.
+- Utilized GAN-based data augmentation and Grad-CAM to enhance model accuracy.
 
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileept2202&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" />
-</div>
+### 🚌 Kongu Transport Management System
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileept2202&theme=transparent" />
-</div>
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+- Developed a bus transport management system with driver and administrator logins.
+- Enabled efficient reporting, tracking, and management of bus service issues.
 
 ---
 
-## 📈 Contribution Graph
+## 📜 Certifications
+
+- MongoDB Associate Developer Certification
+- NPTEL – Responsible and Safe AI
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Finalist – Dark Pattern Buster Hackathon conducted by the Ministry of Consumer Affairs at IIT Varanasi (All India Level)
+- 🎖️ Camp Senior – NCC CATC Camp, Kongu Engineering College
+- 🏅 Best in Training – NCC (Training Year 2024–2025), Kongu Engineering College
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dileept2202&show_icons=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileept2202&layout=compact&theme=transparent" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dileept2202&theme=transparent" />
+
+</div>
+
+---
+
+## 📊 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dileept2202&theme=github-compact" />
@@ -119,4 +150,8 @@
 
 ---
 
-### ⭐ Analyzing Data • Solving Problems • Driving Decisions
+<div align="center">
+
+### ⭐ Transforming Data into Meaningful Insights
+
+</div>
