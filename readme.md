@@ -4,9 +4,7 @@
   <img width="600" src="https://media.licdn.com/dms/image/v2/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1686749902757?e=1782950400&v=beta&t=ImxGAfL42awzHI7_b4LsGHA5Xs0yqXp70IoJJbeQgyc" alt="Business Analytics Banner">
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=750&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+DILEEP+T;+Business+Analyst+Intern+%7C+Team+Lead;+Data+Analytics+Enthusiast;+Turning+Data+into+Insights" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+DILEEP+T;+Business+Analyst+Intern;+Data+Analytics+Enthusiast;+Turning+Data+into+Insights" />
 
 ### Passionate about data analytics, business intelligence, and transforming data into actionable insights that drive better decision-making.
 
@@ -42,22 +40,22 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,etc" />
 </p>
 
 ### Full Stack Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,etc" />
 </p>
 
 ### Data Analytics & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,etc" />
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi,etc" />
 </p>
 
 ---
@@ -65,10 +63,10 @@
 ## 💼 Experience
 
 ### Business Analyst Intern – Team Lead | UptoSkills
-- Led and coordinated a team to ensure smooth execution of business and analytical tasks.
-- Conducted SWOT analysis and market research to identify opportunities and support strategic decisions.
-- Developed dashboards and reports using Power BI and Excel for performance tracking.
-- Collaborated with stakeholders to gather requirements and deliver data-driven insights.
+- Led a team of 20 members, coordinating tasks and ensuring timely project execution.
+- Conducted SWOT analysis and business research to identify opportunities and support strategic decision-making.
+- Created Power BI dashboards and Excel reports to monitor performance metrics and visualize business insights.
+- Collaborated with stakeholders to gather requirements and deliver data-driven recommendations.
 
 ---
 
@@ -83,9 +81,10 @@
 
 ## 🚀 Projects
 
-### Business Performance Dashboard
-- Developed interactive dashboards to track KPIs and business performance metrics.
-- Generated actionable insights for decision-making using Power BI and Excel.
+### Water potability prediction using Machine Learning
+- Built a predictive model to classify water as safe or unsafe for drinking based on physicochemical parameters.
+- Performed data preprocessing, exploratory data analysis, and model evaluation to improve prediction accuracy.
+- Tech Stack: Python, Pandas, Scikit-learn, NumPy, Matplotlib
 
 ### Kongu Transport Management System
 - Analyzed transport-related data and developed a reporting platform for issue tracking.
@@ -94,6 +93,7 @@
 ### Deep Learning Framework for Breast Cancer Diagnosis
 - Developed an AI-based diagnostic framework for medical image analysis.
 - Focused on data processing, model evaluation, and performance analysis.
+- Tech Stack: Python, TensorFlow, EfficientNet-B7, GAN, Grad-CAM.
 
 ---
 
@@ -119,4 +119,4 @@
 
 ---
 
-### ⭐ Turning Data into Insights, and Insights into Impact.
+### ⭐ Analyzing Data • Solving Problems • Driving Decisions
