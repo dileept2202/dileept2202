@@ -1,7 +1,7 @@
 # Hi there, I'm Dileep T 👋
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/b0/bd/67/b0bd67cbd591f9e6e46801b407e8ade7.jpg" />
+  <img src="[https://i.pinimg.com/736x/b0/bd/67/b0bd67cbd591f9e6e46801b407e8ade7.jpg](https://img.magnific.com/free-vector/business-presentation-with-data-charts_1308-172622.jpg?semt=ais_hybrid&w=740&q=80)" />
 </div>
 
 <div align="center">
