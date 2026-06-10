@@ -49,28 +49,37 @@ Self-motivated and adaptable graduate with internship and team leadership experi
 </p>
 
 ### Data Analytics & BI Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,note.js,express.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </p>
 
 ### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter notebook" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ### Soft Skills
-- Analytical Thinking
-- Communication
-- Leadership
-- Problem Solving
-- Adaptability
-- Time Management
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Analytical_Thinking-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adaptability-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Time_Management-DC2626?style=for-the-badge" />
+</p>
+```
+
 
 ---
 
