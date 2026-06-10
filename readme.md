@@ -44,28 +44,24 @@ Self-motivated and adaptable graduate with internship and team leadership experi
 ## 🛠 Skills
 
 ### Programming & Query Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### Data Analytics & BI Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau" />
-</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau" />
 </p>
 
 ### Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,note.js,express.js" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter notebook" />
 </p>
 
 ### Soft Skills
