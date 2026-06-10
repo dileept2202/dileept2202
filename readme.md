@@ -1,7 +1,7 @@
 # Hi there, I'm Dileep T 👋
 
 <div align="center">
-  <img src="https://cdn.media.amplience.net/i/epammarketplace/Analytics-title?maxW=1200&qlt=80&fmt=jpg&bg=rgb%28255%2C255%2C255%29&v=864614054653" />
+  <img src="https://cdn.prod.website-files.com/63a40b5d0bd7064cf2860235/63bbc2ab7fceb015a965f0cb_data-analytics.jpg" />
 </div>
 
 <div align="center">
