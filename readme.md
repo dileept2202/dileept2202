@@ -1,19 +1,22 @@
-## Hi there, I am Dileep T 👋  
+## Hi there, I am Dileep T 👋
 
 <h1 align="center">
-  <img width="600" src="https://www.ducatindia.com/_next/image?url=https%3A%2F%2Fadmin.ducatindia.com%2Fblog%2F1741004135014create%20me%20a%20image%20for%20what+is+mern%20stack%20%20developer+with+background+color+of+royal+blue%20and%20white%20%20(1).jpg&w=1920&q=75" alt="Full stack MERN">
+  <img width="600" src="YOUR_BANNER_IMAGE_URL" alt="Business Analytics Banner">
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+DILEEP;+Fullstack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=750&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+DILEEP+T;+Business+Analyst+Intern+%7C+Team+Lead;+Data+Analytics+Enthusiast;+Turning+Data+into+Insights" />
 </h1>
 
-### A passionate Fullstack (MERN) Developer dedicated to building dynamic and responsive web applications.  
+### Passionate about data analytics, business intelligence, and transforming data into actionable insights that drive better decision-making.
 
-- 🔭 I’m currently working on **Fullstack Web Development Projects**  
-- 🌱 I’m currently learning **React.js and AI integration for web apps**  
-- 👯 I’m looking to collaborate on **MERN stack and ML/DL projects**  
-- 📫 Reach me at: **dileep.thetchina@gmail.com**  
+- 💼 Currently working as **Business Analyst Intern – Team Lead at UptoSkills**
+- 📊 Skilled in **Data Analytics, Business Intelligence, Data Visualization, and Reporting**
+- 🌱 Currently learning **Advanced Power BI, SQL, and Business Analytics**
+- 👯 Open to collaborating on **Data Analytics, Business Intelligence, and Business Strategy Projects**
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** from Kongu Engineering College
+- 📫 Reach me at: **dileep.thetchina@gmail.com**
+- 🌐 Portfolio: **https://dileeptportfolio.netlify.app**
 
 ---
 
@@ -27,56 +30,92 @@
   <a href="https://github.com/dileept2202" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://dileeptportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🛠 Languages and Tools
+## 📊 Analytics & Tools
 
-### Programming Languages
+### Data Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### Fullstack Development (MERN)
+### Visualization & Reporting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,react,mongodb,nodejs" />
+  <img src="https://skillicons.dev/icons?i=excel" />
 </p>
 
-### AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,pandas" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### Other Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
- 
+
+## 💼 Experience
+
+### Business Analyst Intern – Team Lead | UptoSkills
+- Led and coordinated a team to ensure smooth execution of business and analytical tasks.
+- Conducted SWOT analysis and market research to identify opportunities and support strategic decisions.
+- Developed dashboards and reports using Power BI and Excel for performance tracking.
+- Collaborated with stakeholders to gather requirements and deliver data-driven insights.
 
 ---
 
-## ⚡ Projects
+## 🏆 Achievements
 
-**Deep Learning Framework for Breast Cancer Diagnosis** (Aug 2025 – Oct 2025)  
-- Built an AI model using EfficientNet-B7 to detect breast cancer tissues from ultrasound images  
-- Used Grad-CAM for visualization and GAN for dataset augmentation  
-- **Tech Stack:** Python, TensorFlow, GAN, Grad-CAM, EfficientNet-B7  
+- 🥇 Finalist – Dark Pattern Buster Hackathon conducted at IIT Varanasi.
+- 📜 NPTEL Elite Certification – Data Analytics with Python.
+- 📊 Built interactive dashboards and analytical reports using Power BI and Excel.
+- 🤝 Led cross-functional teams and contributed to business strategy initiatives.
 
-**Kongu Transport Management System** (Nov 2024 – Dec 2024)  
-- Developed a website to manage bus service reports; drivers submit issues, admins track them  
-- **Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+---
 
-**Dark Pattern Detector Chrome Extension** (Jan 2024 – Feb 2024)  
-- Developed a Chrome extension to detect hidden costs and manipulative web design patterns  
-- **Tech Stack:** JavaScript, Python, Beautiful Soup, HTML, CSS  
+## 🚀 Projects
+
+### Business Performance Dashboard
+- Developed interactive dashboards to track KPIs and business performance metrics.
+- Generated actionable insights for decision-making using Power BI and Excel.
+
+### Kongu Transport Management System
+- Analyzed transport-related data and developed a reporting platform for issue tracking.
+- Tech Stack: MongoDB, React.js, Node.js.
+
+### Deep Learning Framework for Breast Cancer Diagnosis
+- Developed an AI-based diagnostic framework for medical image analysis.
+- Focused on data processing, model evaluation, and performance analysis.
 
 ---
 
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dileept2202&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Dileep's GitHub Stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileept2202&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dileep's Most Used Languages" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dileept2202&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileept2202&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileept2202&theme=transparent&hide_border=false&fire=DD2727&currStreakLabel=DD2727&currStreakNum=DD2727&sideNums=5FCDD9" alt="Dileep's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileept2202&theme=transparent" />
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dileept2202&theme=github-compact" />
+</div>
+
+---
+
+### ⭐ Turning Data into Insights, and Insights into Impact.
