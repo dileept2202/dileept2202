@@ -1,7 +1,7 @@
 # Hi there, I'm Dileep T 👋
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1686749902757?e=1782950400&v=beta&t=ImxGAfL42awzHI7_b4LsGHA5Xs0yqXp70IoJJbeQgyc" />
+  <img src="https://i.pinimg.com/736x/b0/bd/67/b0bd67cbd591f9e6e46801b407e8ade7.jpg" />
 </div>
 
 <div align="center">
