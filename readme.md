@@ -1,7 +1,7 @@
 ## Hi there, I am Dileep T 👋
 
 <h1 align="center">
-  <img width="600" src="YOUR_BANNER_IMAGE_URL" alt="Business Analytics Banner">
+  <img width="600" src="https://media.licdn.com/dms/image/v2/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1686749902757?e=1782950400&v=beta&t=ImxGAfL42awzHI7_b4LsGHA5Xs0yqXp70IoJJbeQgyc" alt="Business Analytics Banner">
 </h1>
 
 <h1 align="center">
@@ -37,26 +37,27 @@
 
 ---
 
-## 📊 Analytics & Tools
 
-### Data Analytics
+## 🛠 Languages and Tools
+
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js" />
 </p>
 
-### Visualization & Reporting
+### Full Stack Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
 </p>
 
+### Data Analytics & AI
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas" />
 </p>
 
-### Other Tools
+### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi" />
 </p>
 
 ---
