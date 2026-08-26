@@ -15,12 +15,12 @@
 
 Self-motivated and adaptable graduate with experience in data analytics, data operations, and team leadership, with strong analytical and problem-solving abilities. Skilled in Excel, SQL, Python, and Power BI, with a passion for learning and continuous improvement.
 
-💼 Data Analyst – Data Operations at Viyugaas Technologies
-💼 Business Analyst Intern – Team Lead at UptoSkills
-🎓 B.Tech in Artificial Intelligence & Data Science, Kongu Engineering College
-📊 Interested in Data Analytics, Business Analysis, and Business Intelligence
-📍 Madurai, Tamil Nadu, India
-🌱 Passionate about continuous learning and professional growth
+  - 💼 Data Analyst – Data Operations at Viyugaas Technologies
+  - 💼 Business Analyst Intern – Team Lead at UptoSkills
+  - 🎓 B.Tech in Artificial Intelligence & Data Science, Kongu Engineering College
+  - 📊 Interested in Data Analytics, Business Analysis, and Business Intelligence
+  - 📍 Madurai, Tamil Nadu, India
+  - 🌱 Passionate about continuous learning and professional growth
 
 ---
 
