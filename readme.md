@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=42&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Business+Analyst+Intern;AI+%26+Data+Science+Graduate;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=42&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Data/Business+Analyst;AI+%26+Data+Science+Graduate;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+into+Insights" />
 </div>
 
 ---
