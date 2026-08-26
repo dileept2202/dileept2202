@@ -13,13 +13,14 @@
 
 ## 🚀 About Me
 
-Self-motivated and adaptable graduate with internship and team leadership experience, strong analytical and problem-solving abilities. Skilled in Excel, SQL, Python, and Power BI, with a passion for learning and continuous improvement.
+Self-motivated and adaptable graduate with experience in data analytics, data operations, and team leadership, with strong analytical and problem-solving abilities. Skilled in Excel, SQL, Python, and Power BI, with a passion for learning and continuous improvement.
 
-- 💼 Business Analyst Intern – Team Lead at UptoSkills
-- 🎓 B.Tech in Artificial Intelligence & Data Science, Kongu Engineering College
-- 📊 Interested in Data Analytics, Business Analysis, and Business Intelligence
-- 📍 Madurai, Tamil Nadu, India
-- 🌱 Passionate about continuous learning and professional growth
+💼 Data Analyst – Data Operations at Viyugaas Technologies
+💼 Business Analyst Intern – Team Lead at UptoSkills
+🎓 B.Tech in Artificial Intelligence & Data Science, Kongu Engineering College
+📊 Interested in Data Analytics, Business Analysis, and Business Intelligence
+📍 Madurai, Tamil Nadu, India
+🌱 Passionate about continuous learning and professional growth
 
 ---
 
@@ -87,12 +88,19 @@ Self-motivated and adaptable graduate with internship and team leadership experi
 ## 💼 Experience
 
 ### Business Analyst Intern – Team Lead | UptoSkills
-**March 2026 – Present**
+**March 2026 – June 2026**
 
 - Led and mentored a team of 20 members, overseeing task allocation, progress tracking, and project execution.
 - Conducted SWOT analysis and business research to evaluate organizational performance, identify opportunities, and support strategic decision-making.
 - Designed and delivered analytical reports and interactive dashboards using Power BI and Excel.
 - Performed data cleaning, transformation, and exploratory data analysis (EDA) using Python and SQL to uncover trends and support business recommendations.
+
+### Data Analyst – Viyugaa Technologies
+**June 2026 – Present**
+
+- Reviewed and validated dental and insurance claim forms against source documents, verifying signature fields, dates, and provider information for accuracy.
+- Resolved field-level and page-level discrepancies using a data validation platform, correcting mismatched or missing entries to ensure compliance with billing standards.
+- Achieved 98%+ accuracy while auditing and correcting over 1,500 billing forms daily, maintaining productivity targets.
 
 ---
 
