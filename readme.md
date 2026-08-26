@@ -87,6 +87,13 @@ Self-motivated and adaptable graduate with experience in data analytics, data op
 
 ## 💼 Experience
 
+### Data Analyst – Viyugaa Technologies
+**June 2026 – Present**
+
+- Reviewed and validated dental and insurance claim forms against source documents, verifying signature fields, dates, and provider information for accuracy.
+- Resolved field-level and page-level discrepancies using a data validation platform, correcting mismatched or missing entries to ensure compliance with billing standards.
+- Achieved 98%+ accuracy while auditing and correcting over 1,500 billing forms daily, maintaining productivity targets.
+
 ### Business Analyst Intern – Team Lead | UptoSkills
 **March 2026 – June 2026**
 
@@ -94,13 +101,6 @@ Self-motivated and adaptable graduate with experience in data analytics, data op
 - Conducted SWOT analysis and business research to evaluate organizational performance, identify opportunities, and support strategic decision-making.
 - Designed and delivered analytical reports and interactive dashboards using Power BI and Excel.
 - Performed data cleaning, transformation, and exploratory data analysis (EDA) using Python and SQL to uncover trends and support business recommendations.
-
-### Data Analyst – Viyugaa Technologies
-**June 2026 – Present**
-
-- Reviewed and validated dental and insurance claim forms against source documents, verifying signature fields, dates, and provider information for accuracy.
-- Resolved field-level and page-level discrepancies using a data validation platform, correcting mismatched or missing entries to ensure compliance with billing standards.
-- Achieved 98%+ accuracy while auditing and correcting over 1,500 billing forms daily, maintaining productivity targets.
 
 ---
 
