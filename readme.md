@@ -90,9 +90,12 @@ Self-motivated and adaptable graduate with experience in data analytics, data op
 ### Data Analyst - Data Quality & Validation (Healthcare Billing) – Viyugaa Technologies
 **June 2026 – Present**
 
-- Reviewed and validated dental and insurance claim forms against source documents, verifying signature fields, dates, and provider information for accuracy.
-- Resolved field-level and page-level discrepancies using a data validation platform, correcting mismatched or missing entries to ensure compliance with billing standards.
-- Achieved 98%+ accuracy while auditing and correcting over 1,500 billing forms daily, maintaining productivity targets.
+- Perform systematic data validation and quality audits on high-volume healthcare billing records, cross-referencing multiple data fields against source 
+documentation to ensure accuracy and consistency. 
+- Identify, track, and resolve data discrepancies at the field and record level using a structured validation platform, implementing corrections to 
+maintain data integrity across large datasets. 
+- Maintain 98%+ data accuracy while auditing and processing 1,500+ records daily, consistently exceeding quality and productivity benchmarks in a 
+high-throughput environment. 
 
 ### Business Analyst Intern – Team Lead | UptoSkills
 **March 2026 – June 2026**
