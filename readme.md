@@ -15,7 +15,7 @@
 
 Self-motivated and adaptable graduate with experience in data analytics, data operations, and team leadership, with strong analytical and problem-solving abilities. Skilled in Excel, SQL, Python, and Power BI, with a passion for learning and continuous improvement.
 
-  - 💼 Data Analyst – Data Operations at Viyugaas Technologies
+  - 💼 Data Analyst – Data Quality & Validation at Viyugaas Technologies
   - 💼 Business Analyst Intern – Team Lead at UptoSkills
   - 🎓 B.Tech in Artificial Intelligence & Data Science, Kongu Engineering College
   - 📊 Interested in Data Analytics, Business Analysis, and Business Intelligence
@@ -87,7 +87,7 @@ Self-motivated and adaptable graduate with experience in data analytics, data op
 
 ## 💼 Experience
 
-### Data Analyst – Viyugaa Technologies
+### Data Analyst - Data Quality & Validation (Healthcare Billing) – Viyugaa Technologies
 **June 2026 – Present**
 
 - Reviewed and validated dental and insurance claim forms against source documents, verifying signature fields, dates, and provider information for accuracy.
